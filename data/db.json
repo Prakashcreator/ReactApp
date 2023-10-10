@@ -1,0 +1,19 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "checked" : false,
+            "item" : "Prakash Product"
+        },
+        {
+            "id" : 2,
+            "checked" : false,
+            "item" : "Prakash Product"
+        },
+        {
+            "id" : 3,
+            "checked" : false,
+            "item" : "Prakash Product"
+        }
+    ]
+}
